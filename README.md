@@ -7,6 +7,7 @@ Project Description:
        
 How to Run: Run cs-project.py. Make sure opencv is installed. Use a brightly red colored object for the controller if
       using the opencv feature and use in a well lit setting for best detection.
+      
 Libraries: None
 
 Shortcuts Commands: Press r to regenerate the levels inside either the one tier mode or the two tier mode
